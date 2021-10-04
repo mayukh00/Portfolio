@@ -77,6 +77,8 @@
 
 ## M
 - [Muskan Rastogi](https://www.rastogi.codes)
+- [Mayukh Chatterjee](https://knittingthoughts.in.net/about.html)
+
 
 ## N
 - [Naynika Wason](https://www.naynikawason.tech)
